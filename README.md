@@ -15,3 +15,15 @@ indian football
 * pakistan football team
 
 ![sarvani](AboutMe.md)
+
+---
+
+## countries visiting 
+this table taking about the  countries visiting and explore the  best places in the world.
+
+| **country_name** | **reoson** | **days to spend** |
+ |   :---:            |  :---:      |   :---:             |
+| india          |explore the culture* i recommand to send at list one month . |30 days|
+| usa             |explore the new architecture*i recommand to spend one month. |30 days|
+| uk              |explore the  beautiful cities*i recommand to spend one month.| 30 days|
+| canada          |explore the CN towers*i recommand to spend one month.        | 30 days|
