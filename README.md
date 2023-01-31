@@ -36,3 +36,14 @@ this table taking about the  countries visiting and explore the  best places in 
 
 >   “Gentlemen, you can't fight in here. This is the war room.”    —    *President Merkin Muffley*
 
+### jquery
+
+> [jquery stack overflow](https://stackoverflow.com/questions/182630/jquery-tips-and-tricks)
+
+```
+html {
+  scroll-behavior: smooth;
+}
+
+```
+> [jquery smooth scrolling](https://stackoverflow.com/questions/182630/jquery-tips-and-tricks)
